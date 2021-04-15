@@ -1,6 +1,6 @@
 # skynet-cli
 
-> :warning: This repo has been archived and moved under the new [SkynetHQ](https://github.com/SkynetHQ) repo [here](https://github.com/SkynetHQ/skynet-cli)
+> :warning: This repo has been archived and moved under the new [SkynetLabs](https://github.com/SkynetLabs) repo [here](https://github.com/SkynetLabs/skynet-cli)
 
 [![Go](https://img.shields.io/github/go-mod/go-version/NebulousLabs/skynet-cli)](https://github.com/NebulousLabs/skynet-cli)
 [![Build Status](https://img.shields.io/github/workflow/status/NebulousLabs/skynet-cli/Go)](https://github.com/NebulousLabs/skynet-cli/actions)
